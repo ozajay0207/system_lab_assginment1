@@ -41,5 +41,5 @@ OUTPUT DISPLAYED ON SCREEN
 
 	Line number:filename:line in which string is found
 
-
+.
 
